@@ -3,38 +3,38 @@ import Product from "./Product";
 const DUMMY_PRODUCTS = [
   {
     id: 1,
-    name: "MacBook",
+    name: "Animal Crossing",
     imgURL:
-      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    price: 25,
+      "https://static-ca.gamestop.ca/images/products/751287/3max.jpg",
+    price: 66,
   },
   {
     id: 2,
-    name: "Lenovo Yoga",
+    name: "Mario Kart 8 Deluxe",
     imgURL:
-      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    price: 25,
+      "https://static-ca.gamestop.ca/images/products/729218/3max.jpg",
+    price: 50,
   },
   {
     id: 3,
-    name: "Dell lattitude",
+    name: "Halo Infinite - Digital",
     imgURL:
-      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    price: 25,
+      "https://static-ca.gamestop.ca/images/products/767276/3max.jpg",
+    price: 85,
   },
   {
     id: 4,
-    name: "HP Pavillion",
+    name: "Grand Theft Auto",
     imgURL:
-      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    price: 25,
+      "https://static-ca.gamestop.ca/images/products/766244/3max.jpg",
+    price: 65,
   },
   {
     id: 5,
-    name: "Acer Aspire",
+    name: "Super Mario Party",
     imgURL:
-      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    price: 25,
+      "https://static-ca.gamestop.ca/images/products/739714/3max.jpg",
+    price: 80,
   },
 ];
 const Products = () => {
